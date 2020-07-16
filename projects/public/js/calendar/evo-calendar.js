@@ -20,6 +20,7 @@
     } else {
         factory(jQuery);
     }
+	
 
 }(function($) {
     'use strict';
