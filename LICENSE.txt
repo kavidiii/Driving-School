@@ -1,0 +1,31 @@
+SCS 3214 / IS 3113: Group Project II - 2020
+
+software license for our project
+
+Project Title: LEARNALOT DRIVING SCHOOL
+
+Project Group Details
+
+1. Group number: G9
+
+LEARNALOT DRIVING SCHOOL is an online web-based platform.
+
+All rights reserved.
+Copyright © 2020
+Contributors: Members of project Intelligent Interactive Visualizer (students of UCSC).
+This is free software.
+Redistribution or modification is not permitted.
+If necessary, maintenance shall be done by the original contributors.
+The software is provided “as is” in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Any person can register our system using their own details. Then Registered
+trainer or a trainee can login to our system using their username and password.
+Unregistered students can not login to our system. But they can enter our web
+page.
+Encrypting user password.(This is a username password login system. Then users
+can protect their profile and access user profile data.)
+private information regarding the user will be collected during the use of this
+software.
+Only administrators can access users' sensitive data. We provide privacy for users'
+sensitive data.
